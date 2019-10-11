@@ -1,0 +1,11 @@
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/bin/Debug/netcoreapp3.0/DeckOfCards
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/bin/Debug/netcoreapp3.0/DeckOfCards.deps.json
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/bin/Debug/netcoreapp3.0/DeckOfCards.runtimeconfig.json
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/bin/Debug/netcoreapp3.0/DeckOfCards.runtimeconfig.dev.json
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/bin/Debug/netcoreapp3.0/DeckOfCards.dll
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/bin/Debug/netcoreapp3.0/DeckOfCards.pdb
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/obj/Debug/netcoreapp3.0/DeckOfCards.csprojAssemblyReference.cache
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/obj/Debug/netcoreapp3.0/DeckOfCards.AssemblyInfoInputs.cache
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/obj/Debug/netcoreapp3.0/DeckOfCards.AssemblyInfo.cs
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/obj/Debug/netcoreapp3.0/DeckOfCards.dll
+/home/snyderjosephd/nss/workspace/csharp/projects/DeckOfCards/obj/Debug/netcoreapp3.0/DeckOfCards.pdb
